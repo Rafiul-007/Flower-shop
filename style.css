@@ -1,10 +1,13 @@
+/* body{
+    text-align: center;
+} */
 .intro, .rose-image{
     display: flex;
     align-items: center;
-    background-color: #df99a8;
+    background-color: #e7c7ce;
     
 }
-.heading,img{
+.heading,.rose-image{
     margin: 70px 130px 0;
 }
 .rose-image{
@@ -13,7 +16,7 @@
 }
 .btn-primary{
     border-radius: 8px;
-    background-color: ;
+    
     padding: 20px 19px 20px;
     height: 64px;
     width: 177px;
@@ -21,3 +24,74 @@
     color: white;
     border-style: none;
 }
+.featured-flowers{
+    text-align: center;
+    margin-top: 90px;
+     
+}
+.pictures{
+    display: flex;
+    justify-content: space-around;
+    /* padding: 60px 40px 20px 60px; */
+    
+}
+.flowers{
+    height: 300px;
+    width: 200px;
+    /* margin: 10px 100px 10px 80px; */
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border: 100px hidden ;
+    padding: 20px;
+}
+.pictures figcaption{
+    text-align: center;
+    text-decoration: underline;
+    margin: 40px;
+}
+#first{
+    background-color: #c58895;
+}
+#second{
+    background-color: rgb(159, 183, 190);
+}
+#third{
+    background-color: rgb(206, 206, 156);
+}
+.delivery-support{
+    display: flex;
+    margin-left: 140px;
+    margin-top: 60px;
+    padding: 15px 20px 5px;
+    background-color: rgb(173, 173, 173);
+    margin-right: 150px;
+}
+figcaption{
+    text-align: center;
+}
+.hot-deal-sign-up{
+    display: flex;
+    margin-top: 80px;
+    text-align: center;
+    background-color: #eee2e5;
+    justify-content: space-around;
+}
+.deal{
+    padding: 10px;
+}
+.hot-deal{
+    padding-top: 150px;
+    padding-left: 150px;
+}
+.rose-vase{
+    height: 350px;
+    width: 250px;
+    margin-top: 70px;
+    margin-right: 90px;
+}
+.social{
+    text-align: center;
+    margin-top: 90px;
+}
+ 
+    
