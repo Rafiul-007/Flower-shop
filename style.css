@@ -93,5 +93,17 @@ figcaption{
     text-align: center;
     margin-top: 90px;
 }
- 
+.logs{
+    display: flex;
+}
+.four-flower{
+    width: 350px;
+    height: 300px;
+    margin-top: 50px ;
+    margin-left: 150px;
+    gap: 10px;
+    
+    display: flex;
+}
+
     
