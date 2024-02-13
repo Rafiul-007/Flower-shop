@@ -1,0 +1,23 @@
+.intro, .rose-image{
+    display: flex;
+    align-items: center;
+    background-color: #df99a8;
+    
+}
+.heading,img{
+    margin: 70px 130px 0;
+}
+.rose-image{
+    height: 400px;
+    width: 335px;
+}
+.btn-primary{
+    border-radius: 8px;
+    background-color: ;
+    padding: 20px 19px 20px;
+    height: 64px;
+    width: 177px;
+    background-color: #E55473;    
+    color: white;
+    border-style: none;
+}
